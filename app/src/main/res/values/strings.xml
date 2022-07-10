@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Async scrolling text banner</string>
+    <string name="async_task_demo_text">Demonstration of Asynchronous Task.</string>
+</resources>
